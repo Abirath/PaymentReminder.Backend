@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentReminder.Backend", "PaymentReminder.Backend\PaymentReminder.Backend.csproj", "{63403F22-E169-4DFC-B132-8287CBF38DFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63403F22-E169-4DFC-B132-8287CBF38DFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63403F22-E169-4DFC-B132-8287CBF38DFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63403F22-E169-4DFC-B132-8287CBF38DFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63403F22-E169-4DFC-B132-8287CBF38DFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F69BBC5B-6EB5-42A4-B2FF-70C61CB035A1}
+	EndGlobalSection
+EndGlobal
